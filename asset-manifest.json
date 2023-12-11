@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/neurowyspa/static/css/main.85e7a374.css",
+    "main.css": "/neurowyspa/static/css/main.677749ad.css",
     "main.js": "/neurowyspa/static/js/main.6870c6f7.js",
-    "static/media/stockphoto.jpg": "/neurowyspa/static/media/stockphoto.607dc2814b020192f316.jpg",
+    "static/media/stockphoto.jpg": "/neurowyspa/static/media/stockphoto.df90067936200b975991.jpg",
     "index.html": "/neurowyspa/index.html",
-    "main.85e7a374.css.map": "/neurowyspa/static/css/main.85e7a374.css.map",
+    "main.677749ad.css.map": "/neurowyspa/static/css/main.677749ad.css.map",
     "main.6870c6f7.js.map": "/neurowyspa/static/js/main.6870c6f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.85e7a374.css",
+    "static/css/main.677749ad.css",
     "static/js/main.6870c6f7.js"
   ]
 }
